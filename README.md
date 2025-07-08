@@ -1,6 +1,6 @@
 # CatherineDemian-optimizer-comparison-cifar10-
 
-# Optimization Algorithm Comparison Using CIFAR-10
+ Optimization Algorithm Comparison Using CIFAR-10
 
 This project evaluates the performance of several optimization algorithms for training a shallow neural network on the CIFAR-10 dataset.
 
